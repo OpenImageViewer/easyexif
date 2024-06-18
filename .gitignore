@@ -23,7 +23,6 @@
 *.lib
 
 # Executables
-demo
 *.exe
 *.out
 *.app
